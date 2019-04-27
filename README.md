@@ -19,8 +19,11 @@ run auggi_server.py - decides when to run an inference with an image.  Creates a
 About each script:
 
 full_inference.py - contains the main Inference class that creates all the necessary module objects to classify an image.
+
 segmentor.py - produces a binary mask from an image
+
 bbox_from_mask.py - produces bounding box coordinates from a binary mask
+
 classifier_bristol.py - produces a bristol scale prediction from an image path and bounding box coordinates
 
 
