@@ -25,13 +25,19 @@ classifier_bristol.py - produces a bristol scale prediction from an image path a
 This model requires the following dependancies (use a virtual environment):
 
 Python 3.6
+
 Pytorch
 
 imutils==0.5.1
+
 Flask==1.0.2
+
 numpy==1.14.5
+
 opencv-python==3.4.2.17
+
 Pillow==5.2.0
+
 torchvision==0.2.1
 
 
