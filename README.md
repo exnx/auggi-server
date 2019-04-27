@@ -4,10 +4,12 @@ This package contains a Flask server to take an image file path and return a bri
 Download and put the following models into the "saved_models" directory of this repo, and the model will be ready.
 
 Segmentation model .pth from drive:
-1. https://drive.google.com/open?id=1YUtcrwEOY99keN-GhVUBvP11_D9BgPjU
+
+1.  https://drive.google.com/open?id=1YUtcrwEOY99keN-GhVUBvP11_D9BgPjU
 
 Classifier model .pth from drive:
-2. https://drive.google.com/open?id=1t2Lbwx3-GbxdK0ONOnBn8gRYuVo-cBg1
+
+2.  https://drive.google.com/open?id=1t2Lbwx3-GbxdK0ONOnBn8gRYuVo-cBg1
 
 
 # To run
